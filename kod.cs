@@ -4,13 +4,6 @@ namespace Ders_01
 {
 class Program
 {
-/*
-Matematiksel Metotlar >>> System.Math
-- Kendisine gönderilen bir değerin kareköküyle geri döner
-public static double Sqrt(double val)
-- Kuvvet alma işlemi yapar
-public static double Pow(double val, double kuvvet)
-*/
 static void Main(string[] args)
 {
 int val, kuvvet, result;
