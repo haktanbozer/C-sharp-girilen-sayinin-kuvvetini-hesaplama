@@ -1,0 +1,1 @@
+# C-sharp-girilen-sayinin-kuvvetini-hesaplama
